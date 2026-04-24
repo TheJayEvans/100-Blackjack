@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: d9bb9d3bea1f5d5439722ace2f616340
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1693987258332023215
+    second: AdobeStock_718478091_0
+  - first:
+      213: -6463601821992314357
+    second: AdobeStock_718478091_1
+  - first:
+      213: 7603051813907290046
+    second: AdobeStock_718478091_2
+  - first:
+      213: -1622350577068083990
+    second: AdobeStock_718478091_3
+  - first:
+      213: 7809815338115902162
+    second: AdobeStock_718478091_4
+  - first:
+      213: -28937536880925418
+    second: AdobeStock_718478091_5
+  - first:
+      213: 2562135746940405765
+    second: AdobeStock_718478091_6
+  - first:
+      213: 7437045991513854292
+    second: AdobeStock_718478091_7
+  - first:
+      213: -5618439632286698110
+    second: AdobeStock_718478091_8
+  - first:
+      213: 2035734357948684640
+    second: AdobeStock_718478091_9
+  - first:
+      213: 6620764771584770896
+    second: AdobeStock_718478091_10
+  - first:
+      213: -5673720977746825038
+    second: AdobeStock_718478091_11
+  - first:
+      213: 6493062917828514054
+    second: AdobeStock_718478091_12
+  - first:
+      213: 7174097259099092769
+    second: AdobeStock_718478091_13
+  - first:
+      213: 3161143115448201848
+    second: AdobeStock_718478091_14
+  - first:
+      213: 2810412576775077360
+    second: AdobeStock_718478091_15
+  - first:
+      213: -229983015799479460
+    second: AdobeStock_718478091_16
+  - first:
+      213: 2407109585527799136
+    second: AdobeStock_718478091_17
+  - first:
+      213: -2466022986464754306
+    second: AdobeStock_718478091_18
+  - first:
+      213: -1696573692194849396
+    second: AdobeStock_718478091_19
+  - first:
+      213: 6898025762999336488
+    second: AdobeStock_718478091_20
+  - first:
+      213: -1534900429199692592
+    second: AdobeStock_718478091_21
+  - first:
+      213: -8462615208447523318
+    second: AdobeStock_718478091_22
+  - first:
+      213: -4832822013124124873
+    second: AdobeStock_718478091_23
+  - first:
+      213: -3947088166876045889
+    second: AdobeStock_718478091_24
+  - first:
+      213: 7363712372682773230
+    second: AdobeStock_718478091_25
+  - first:
+      213: -1833406247389732382
+    second: AdobeStock_718478091_26
+  - first:
+      213: -1085389241400774285
+    second: AdobeStock_718478091_27
+  - first:
+      213: 3423684138430998356
+    second: AdobeStock_718478091_28
+  - first:
+      213: -4479611968619787088
+    second: AdobeStock_718478091_29
+  - first:
+      213: -4474921299394101765
+    second: AdobeStock_718478091_30
+  - first:
+      213: -8378118639549964973
+    second: AdobeStock_718478091_31
+  - first:
+      213: 6615674961779483571
+    second: AdobeStock_718478091_32
+  - first:
+      213: 6407458548032111730
+    second: AdobeStock_718478091_33
+  - first:
+      213: -1926420981118930313
+    second: AdobeStock_718478091_34
+  - first:
+      213: -2846660926196856138
+    second: AdobeStock_718478091_35
+  - first:
+      213: -8168014975574521409
+    second: AdobeStock_718478091_36
+  - first:
+      213: -3550700132025197841
+    second: AdobeStock_718478091_37
+  - first:
+      213: 4151706916739204714
+    second: AdobeStock_718478091_38
+  - first:
+      213: 2115057037775002468
+    second: AdobeStock_718478091_39
+  - first:
+      213: -45996921670055564
+    second: AdobeStock_718478091_40
+  - first:
+      213: -9038145382594238559
+    second: AdobeStock_718478091_41
+  - first:
+      213: -3260695881213242787
+    second: AdobeStock_718478091_42
+  - first:
+      213: 5315099211091618437
+    second: AdobeStock_718478091_43
+  - first:
+      213: 7329553718996583697
+    second: AdobeStock_718478091_44
+  - first:
+      213: -4300646214357816551
+    second: AdobeStock_718478091_45
+  - first:
+      213: 8152023414690497087
+    second: AdobeStock_718478091_46
+  - first:
+      213: -5024450438738123208
+    second: AdobeStock_718478091_47
+  - first:
+      213: 8751178603967291487
+    second: AdobeStock_718478091_48
+  - first:
+      213: -6496956687712284283
+    second: AdobeStock_718478091_49
+  - first:
+      213: -7591006311711728772
+    second: AdobeStock_718478091_50
+  - first:
+      213: -8316058834224774286
+    second: AdobeStock_718478091_51
+  - first:
+      213: 1128949603982381304
+    second: AdobeStock_718478091_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AdobeStock_718478091_0
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 2892
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa90be2bf60428710800000000000000
+      internalID: 1693987258332023215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2293
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a9496736cac46a0800000000000000
+      internalID: -6463601821992314357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2296
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb755d09757738960800000000000000
+      internalID: 7603051813907290046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_3
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2301
+        width: 337
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4f4b8eeb04c79e0800000000000000
+      internalID: -1622350577068083990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_4
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2304
+        width: 338
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daabcdfba9026c60800000000000000
+      internalID: 7809815338115902162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_5
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2306
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615a989a671399ff0800000000000000
+      internalID: -28937536880925418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_6
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 2308
+        width: 338
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50886b613e88e8320800000000000000
+      internalID: 2562135746940405765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_7
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 2311
+        width: 338
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4511d661de1b53760800000000000000
+      internalID: 7437045991513854292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_8
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 2314
+        width: 337
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28533951cea4702b0800000000000000
+      internalID: -5618439632286698110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_9
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 2318
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069d69edc91604c10800000000000000
+      internalID: 2035734357948684640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_10
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2321
+        width: 337
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0530bbf3b7ea1eb50800000000000000
+      internalID: 6620764771584770896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_11
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 2324
+        width: 337
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0f7b6d4d4e241b0800000000000000
+      internalID: -5673720977746825038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_12
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 2327
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6011e61725efb1a50800000000000000
+      internalID: 6493062917828514054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_13
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 2331
+        width: 339
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12774b872738f8360800000000000000
+      internalID: 7174097259099092769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1714
+        width: 337
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87236704ae2aedb20800000000000000
+      internalID: 3161143115448201848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_15
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1717
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdf7fe2957900720800000000000000
+      internalID: 2810412576775077360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_16
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1721
+        width: 337
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5326e66aafeeccf0800000000000000
+      internalID: -229983015799479460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_17
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1724
+        width: 338
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d72d42a65c76120800000000000000
+      internalID: 2407109585527799136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_18
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1726
+        width: 337
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7502dbc82de6cdd0800000000000000
+      internalID: -2466022986464754306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_19
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1729
+        width: 338
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8df37d373f8478e0800000000000000
+      internalID: -1696573692194849396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_20
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1733
+        width: 338
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e711752e5babf50800000000000000
+      internalID: 6898025762999336488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_21
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1735
+        width: 339
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc25ff1130f2bae0800000000000000
+      internalID: -1534900429199692592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_22
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 1739
+        width: 339
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06caa50e40ce8a80800000000000000
+      internalID: -8462615208447523318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_23
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1743
+        width: 338
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f5c050cfd5eecb0800000000000000
+      internalID: -4832822013124124873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_24
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 1745
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd943c89302939c0800000000000000
+      internalID: -3947088166876045889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_25
+      rect:
+        serializedVersion: 2
+        x: 4412
+        y: 1748
+        width: 339
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2d7e96369213660800000000000000
+      internalID: 7363712372682773230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_26
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 1752
+        width: 338
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e16a575bbe6e86e0800000000000000
+      internalID: -1833406247389732382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1134
+        width: 337
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371b64f4c3cefe0f0800000000000000
+      internalID: -1085389241400774285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_28
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1138
+        width: 338
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457a15e959e538f20800000000000000
+      internalID: 3423684138430998356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_29
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1142
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc44d606a835d1c0800000000000000
+      internalID: -4479611968619787088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_30
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1145
+        width: 339
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdf8cf89c2e5e1c0800000000000000
+      internalID: -4474921299394101765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_31
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1148
+        width: 339
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d9b8b8c71fabb80800000000000000
+      internalID: -8378118639549964973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_32
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1150
+        width: 340
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3ef4e83599fcb50800000000000000
+      internalID: 6615674961779483571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_33
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1154
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2748e7ce99ddbe850800000000000000
+      internalID: 6407458548032111730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_34
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 1156
+        width: 339
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772fb84035af345e0800000000000000
+      internalID: -1926420981118930313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_35
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1160
+        width: 339
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba4d0a48f0ae78d0800000000000000
+      internalID: -2846660926196856138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_36
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 1163
+        width: 339
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb94fccd7a165ae80800000000000000
+      internalID: -8168014975574521409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_37
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 1167
+        width: 339
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea94b6da0169bec0800000000000000
+      internalID: -3550700132025197841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_38
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 1169
+        width: 339
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66c5cfa173dd9930800000000000000
+      internalID: 4151706916739204714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_39
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 1172
+        width: 340
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bd4487b213a5d10800000000000000
+      internalID: 2115057037775002468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 549
+        width: 338
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479481f1b069c5ff0800000000000000
+      internalID: -45996921670055564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_41
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 553
+        width: 339
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7222229ae029280800000000000000
+      internalID: -9038145382594238559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_42
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 556
+        width: 338
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5294b73f5eafb2d0800000000000000
+      internalID: -3260695881213242787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_43
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 560
+        width: 338
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a2317629603c940800000000000000
+      internalID: 5315099211091618437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_44
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 562
+        width: 337
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1154fe6164ec7b560800000000000000
+      internalID: 7329553718996583697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_45
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 565
+        width: 339
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be298cd090154c0800000000000000
+      internalID: -4300646214357816551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_46
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 567
+        width: 343
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f324b49ba1ec12170800000000000000
+      internalID: 8152023414690497087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_47
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 571
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836657752f0954ab0800000000000000
+      internalID: -5024450438738123208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_48
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 574
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f502877139e627970800000000000000
+      internalID: 8751178603967291487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_49
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 578
+        width: 337
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5819fcb905c26d5a0800000000000000
+      internalID: -6496956687712284283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_50
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 580
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b9ca67af357a690800000000000000
+      internalID: -7591006311711728772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_51
+      rect:
+        serializedVersion: 2
+        x: 4421
+        y: 583
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27388c6fc8c679c80800000000000000
+      internalID: -8316058834224774286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdobeStock_718478091_52
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 587
+        width: 338
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f010b2fea5daaf00800000000000000
+      internalID: 1128949603982381304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AdobeStock_718478091_0: 1693987258332023215
+      AdobeStock_718478091_1: -6463601821992314357
+      AdobeStock_718478091_10: 6620764771584770896
+      AdobeStock_718478091_11: -5673720977746825038
+      AdobeStock_718478091_12: 6493062917828514054
+      AdobeStock_718478091_13: 7174097259099092769
+      AdobeStock_718478091_14: 3161143115448201848
+      AdobeStock_718478091_15: 2810412576775077360
+      AdobeStock_718478091_16: -229983015799479460
+      AdobeStock_718478091_17: 2407109585527799136
+      AdobeStock_718478091_18: -2466022986464754306
+      AdobeStock_718478091_19: -1696573692194849396
+      AdobeStock_718478091_2: 7603051813907290046
+      AdobeStock_718478091_20: 6898025762999336488
+      AdobeStock_718478091_21: -1534900429199692592
+      AdobeStock_718478091_22: -8462615208447523318
+      AdobeStock_718478091_23: -4832822013124124873
+      AdobeStock_718478091_24: -3947088166876045889
+      AdobeStock_718478091_25: 7363712372682773230
+      AdobeStock_718478091_26: -1833406247389732382
+      AdobeStock_718478091_27: -1085389241400774285
+      AdobeStock_718478091_28: 3423684138430998356
+      AdobeStock_718478091_29: -4479611968619787088
+      AdobeStock_718478091_3: -1622350577068083990
+      AdobeStock_718478091_30: -4474921299394101765
+      AdobeStock_718478091_31: -8378118639549964973
+      AdobeStock_718478091_32: 6615674961779483571
+      AdobeStock_718478091_33: 6407458548032111730
+      AdobeStock_718478091_34: -1926420981118930313
+      AdobeStock_718478091_35: -2846660926196856138
+      AdobeStock_718478091_36: -8168014975574521409
+      AdobeStock_718478091_37: -3550700132025197841
+      AdobeStock_718478091_38: 4151706916739204714
+      AdobeStock_718478091_39: 2115057037775002468
+      AdobeStock_718478091_4: 7809815338115902162
+      AdobeStock_718478091_40: -45996921670055564
+      AdobeStock_718478091_41: -9038145382594238559
+      AdobeStock_718478091_42: -3260695881213242787
+      AdobeStock_718478091_43: 5315099211091618437
+      AdobeStock_718478091_44: 7329553718996583697
+      AdobeStock_718478091_45: -4300646214357816551
+      AdobeStock_718478091_46: 8152023414690497087
+      AdobeStock_718478091_47: -5024450438738123208
+      AdobeStock_718478091_48: 8751178603967291487
+      AdobeStock_718478091_49: -6496956687712284283
+      AdobeStock_718478091_5: -28937536880925418
+      AdobeStock_718478091_50: -7591006311711728772
+      AdobeStock_718478091_51: -8316058834224774286
+      AdobeStock_718478091_52: 1128949603982381304
+      AdobeStock_718478091_6: 2562135746940405765
+      AdobeStock_718478091_7: 7437045991513854292
+      AdobeStock_718478091_8: -5618439632286698110
+      AdobeStock_718478091_9: 2035734357948684640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
